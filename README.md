@@ -4,4 +4,6 @@ Topsegi is a Python package developed to calculate the temperature (T) and colum
 
 Note : The currently available version is not the full release but a Code Release.
 
-# How to use
+# How to Use Command Line Interface Mode
+
+## Please download TOPSEGI.zip.
