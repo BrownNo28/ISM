@@ -13,7 +13,7 @@ Note : The currently available version is not the full release but a Code Releas
 Please download TOPSEGI.zip.
 
 ## 2. Before using TOPSEGI on Ubuntu/Debian  
-# 1-1. Please download the TOPSEGI.zip file from [https://github.com/BrownNo28/ISM].  
-# 1-2. Use the following commands to install the required Python packages for TOPSEGI:  
+### 1-1. Please download the TOPSEGI.zip file from [https://github.com/BrownNo28/ISM].  
+### 1-2. Use the following commands to install the required Python packages for TOPSEGI:  
         pip3 install numpy pandas scipy matplotlib
         sudo apt install python3-tk
