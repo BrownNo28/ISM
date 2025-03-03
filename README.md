@@ -30,7 +30,7 @@ Please download TOPSEGI.zip.
 ![](image/memo3.png)
 ### 2-3. Obtain the theoretical results for the selected molecule (Close the plot window to proceed to the next process).
 ![](image/memo4.png)
-### 2-4-1. If there is no observational data, the program terminate.
+### 2-4-1. If there is no observational data, the program chooses to terminate.
 ![](image/memo5.png)
 ### 2-4-2. If observational data is available, enter the path to the data.(An example observational dataset for TOPSEGI is located at `../input/observational_data`.)
 ![](image/memo6.png)
