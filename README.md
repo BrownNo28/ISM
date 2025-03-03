@@ -4,6 +4,19 @@ Topsegi is a Python package developed to calculate the temperature (T) and colum
 
 Note : The currently available version is not the full release but a Code Release.
 
+# 
+
 # How to Use Command Line Interface Mode
 
-## Please download TOPSEGI.zip.
+## 1. Please download TOPSEGI.zip.
+
+Please download TOPSEGI.zip.
+
+## 2. Before using TOPSEGI on Ubuntu/Debian  
+#1-1. Please download the TOPSEGI.zip file from [https://github.com/BrownNo28/ISM].  
+#1-2. Use the following commands to install the required Python packages for TOPSEGI:  
+pip3 install numpy pandas scipy matplotlib
+sudo apt install python3-tk
+
+        - `pip3 install numpy pandas scipy matplotlib`  
+        - `sudo apt install python3-tk`
