@@ -22,3 +22,13 @@ Please download TOPSEGI.zip.
         python3 main.py
 ### 1-5. When the program starts, enter `c` to run the Command Line Interface mode.
 ![](image/memo1.png)
+
+## 2. Running TOPSEGI
+### 2-1. Create a directory to store the output files (`.csv` and `.pdf`).
+![](image/memo2.png)
+### 2-2. Select the molecule to be studied (Currently, only acetylene and its isotopologues can be selected).
+![](image/memo3.png)
+### 2-3. Obtain the theoretical results for the selected molecule (Close the plot window to proceed to the next process).
+![](image/memo4.png)
+
+
