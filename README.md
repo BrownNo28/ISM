@@ -17,3 +17,6 @@ Please download TOPSEGI.zip.
 ### 1-2. Use the following commands to install the required Python3 packages for TOPSEGI:  
         pip3 install numpy pandas scipy matplotlib
         sudo apt install python3-tk
+### 1-3. Extract the TOPSEGI.zip file and navigate to the `program` directory inside `TOPSEGI`.  
+### 1-4. Run the TOPSEGI program using the following command:  
+        python3 main.py
