@@ -21,4 +21,4 @@ Please download TOPSEGI.zip.
 ### 1-4. Run the TOPSEGI program using the following command:  
         python3 main.py
 ### 1-5. When the program starts, enter `c` to run the Command Line Interface mode.
-![](images/memo1.png)
+![](image/memo1.png)
