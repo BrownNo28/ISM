@@ -40,11 +40,11 @@ Please download TOPSEGI.zip.
 ### All output files are generated in `../output/`. For more details, refer to [https://arxiv.org/abs/2501.15824].
 
 ## 4. For more information, contact
-#### Name : Minkyu Lee
-**Affiliation : ** Soongsil Univ./OMEG
-**Position : ** Ph. D. Student
-**Education : ** M. S. / Sungkyunkwan Univ.
-**Major Field : ** Astrophysics
-**E-mail : ** rkftor28gh@gmail.com
+##### Name : Minkyu Lee
+##### Affiliation : Soongsil Univ./OMEG
+##### *Position : Ph. D. Student
+##### Education : M. S. / Sungkyunkwan Univ.
+##### Major Field : Astrophysics
+##### E-mail : rkftor28gh@gmail.com
 
 
