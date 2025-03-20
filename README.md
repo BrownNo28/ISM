@@ -42,7 +42,6 @@ Please download TOPSEGI.zip.
 ## 4. For more information, contact
 ##### * Name : Minkyu Lee
 ##### * Affiliation : Soongsil Univ./OMEG
-##### * Position : Ph. D. Student
 ##### * E-mail : rkftor28gh@gmail.com
 
 
