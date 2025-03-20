@@ -43,8 +43,6 @@ Please download TOPSEGI.zip.
 ##### * Name : Minkyu Lee
 ##### * Affiliation : Soongsil Univ./OMEG
 ##### * Position : Ph. D. Student
-##### * Education : M. S. / Sungkyunkwan Univ.
-##### * Major Field : Astrophysics
 ##### * E-mail : rkftor28gh@gmail.com
 
 
