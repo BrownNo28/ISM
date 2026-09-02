@@ -36,8 +36,7 @@ Please download TOPSEGI_ver1.zip.
 ![](image/memo7.png)
 
 ## 3. Output files
-### All output files are generated in `../output/`. For more details, refer to [
-https://doi.org/10.1051/0004-6361/202554316].
+### All output files are generated in `../output/`. For more details, refer to [ https://doi.org/10.1051/0004-6361/202554316 ].
 
 ## 4. For more information, contact
 ##### * Name : Minkyu Lee
