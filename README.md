@@ -12,33 +12,33 @@ Note : The manuscript associated with this code has been submitted. The latest a
 Please download TOPSEGI_ver1.zip.
 
 ## 2. Before using TOPSEGI on Ubuntu/Debian  
-### 1-1. Please download the TOPSEGI_ver1.zip file from [https://github.com/BrownNo28/ISM].  
-### 1-2. Use the following commands to install the required Python3 packages for TOPSEGI:  
+### 2-1. Please download the TOPSEGI_ver1.zip file from [https://github.com/BrownNo28/ISM].  
+### 2-2. Use the following commands to install the required Python3 packages for TOPSEGI:  
         pip3 install numpy pandas scipy matplotlib
         sudo apt install python3-tk
-### 1-3. Extract the TOPSEGI_ver1.zip file and navigate to the `program` directory inside `TOPSEGI`.  
-### 1-4. Run the TOPSEGI program using the following command:  
+### 2-3. Extract the TOPSEGI_ver1.zip file and navigate to the `program` directory inside `TOPSEGI`.  
+### 2-4. Run the TOPSEGI program using the following command:  
         python3 main.py
-### 1-5. When the program starts, enter `c` to run the Command Line Interface mode.
+### 2-5. When the program starts, enter `c` to run the Command Line Interface mode.
 ![](image/memo1.png)
 
-## 2. Running TOPSEGI
-### 2-1. Create a directory to store the output files (`.csv` and `.pdf`).
+## 3. Running TOPSEGI
+### 3-1. Create a directory to store the output files (`.csv` and `.pdf`).
 ![](image/memo2.png)
-### 2-2. Select the molecule to be studied (Currently, acetylene, HCN, HNC, and their isotopologs can be selected).
+### 3-2. Select the molecule to be studied (Currently, acetylene, HCN, HNC, and their isotopologs can be selected).
 ![](image/memo3.png)
-### 2-3. Obtain the theoretical results for the selected molecule (Close the plot window to proceed to the next process).
+### 3-3. Obtain the theoretical results for the selected molecule (Close the plot window to proceed to the next process).
 ![](image/memo4.png)
-### 2-4-1. If there is no observational data, the program chooses to terminate.
+### 3-4-1. If there is no observational data, the program chooses to terminate.
 ![](image/memo5.png)
-### 2-4-2. If observational data is available, enter the path to the data.(An example observational dataset for TOPSEGI is located at `../input/observational_data`.)
+### 3-4-2. If observational data is available, enter the path to the data.(An example observational dataset for TOPSEGI is located at `../input/observational_data`.)
 ![](image/memo6.png)
 ![](image/memo7.png)
 
-## 3. Output files
+## 4. Output files
 ### All output files are generated in `../output/`. For more details, refer to [ https://doi.org/10.1051/0004-6361/202554316 ].
 
-## 4. For more information, contact
+## 5. For more information, contact
 ##### * Name : Minkyu Lee
 ##### * Affiliation : Soongsil Univ./OMEG
 ##### * E-mail : rkftor28gh@gmail.com
