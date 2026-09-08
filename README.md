@@ -27,6 +27,9 @@ Please download TOPSEGI_ver1.zip.
 ![](image/memo2.png)
 ### 3-2. Select the molecule to be studied (Currently, acetylene, HCN, HNC, and their isotopologs can be selected).
 ![](image/memo3.png)
+![](image/memo3-0.png)
+![](image/memo3-1.png)
+![](image/memo3-2.png)
 ### 3-3. Obtain the theoretical results for the selected molecule (Close the plot window to proceed to the next process).
 ![](image/memo4.png)
 ### 3-4-1. If there is no observational data, the program chooses to terminate.
